@@ -50,6 +50,7 @@ nav {
 }
 .slide-2 {
   background-image: url("../src/assets/slider/sergey-pesterev-FRMtK-2.jpg");
+  background-position: 0px -60px;
 }
 .slide-3 {
   background-image: url("../src/assets/slider/sergey-pesterev-FRMtK-3.jpg");

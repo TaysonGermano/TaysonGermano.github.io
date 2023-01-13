@@ -61,8 +61,8 @@ nav {
 .navigators {
   display: inline-block;
   position: absolute;
-  bottom: 10px;
-  right: 20px;
+  bottom: 40px;
+  right: 60px;
 }
 
 .navigator.active {
@@ -72,10 +72,6 @@ nav {
 .navigator {
   display: inline-block;
   margin-right: 15px;
-  width: 10px;
-  height: 10px;
-  border-radius: 20px;
-  background-color: rgb(242, 242, 242);
   cursor: pointer;
 }
 

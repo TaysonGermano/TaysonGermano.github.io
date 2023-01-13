@@ -6,7 +6,9 @@ const slideTitles = document.querySelectorAll(".slide-text");
 
 // create navigators
 slides.forEach(() => {
-  $(".navigators").append($(`<div class="navigator"></div>`));
+  $(".navigators").append(
+    $(`<div class="navigator"><img src="./src/assets/navigator.svg"/></div>`)
+  );
 });
 
 // selects each navigator

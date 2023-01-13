@@ -1,0 +1,38 @@
+@media screen and (max-width: 1685px) {
+  .tabs .tab {
+    width: 48%;
+  }
+
+  .tab-options .option {
+    width: 48%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .branding {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .tab-options .option {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .container-padding {
+    padding: 0px;
+  }
+  .intro h1 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .tabs .tab {
+    width: 100%;
+  }
+
+  .tab-options .option {
+    width: 48%;
+  }
+}

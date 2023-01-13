@@ -25,13 +25,23 @@
   .intro h1 {
     font-size: 20px;
   }
+  .intro,
+  .rec {
+    height: 80px;
+  }
 }
 
 @media screen and (max-width: 768px) {
   .tabs .tab {
     width: 100%;
   }
-
+  .intro,
+  .rec {
+    display: none;
+  }
+  .slider {
+    height: 400px;
+  }
   .tab-options .option {
     width: 48%;
   }

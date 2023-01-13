@@ -1,3 +1,3 @@
 # Project info
 
-Build by: Tyson Monteiro
+Built by: Tyson Monteiro
